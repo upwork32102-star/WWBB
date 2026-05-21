@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap');
+
+:root {
+    --font-heading: "Gilda Display", sans-serif;
+    --font-body: "Gilda Display", sans-serif;
+
+    --color-primary: rgb(0, 47, 31);
+    --color-primary-dark: rgb(0, 31, 21);
+    --color-text: rgb(34, 34, 34);
+    --color-white: #ffffff;
+    --color-cream: #f7f3ec;
+    --color-soft: #fbf8f2;
+    --color-black: #111111;
+    --color-muted: #777777;
+    --color-border: rgba(0, 47, 31, 0.16);
+
+    --heading-main-size: 40px;
+    --heading-main-line: 48px;
+
+    --heading-small-size: 30px;
+    --heading-small-line: 30px;
+
+    --body-size: 15px;
+    --body-line: 24px;
+
+    --font-weight-heading: 600;
+    --font-weight-body: 500;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-body);
+    font-size: var(--body-size);
+    line-height: var(--body-line);
+    font-weight: var(--font-weight-body);
+    color: var(--color-text);
+    background: var(--color-white);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+button {
+    font-family: inherit;
+}
+
+h1,
+.heading-main {
+    font-family: var(--font-heading);
+    font-size: var(--heading-main-size);
+    line-height: var(--heading-main-line);
+    font-weight: var(--font-weight-heading);
+    color: var(--color-primary);
+}
+
+h2,
+.heading-section {
+    font-family: var(--font-heading);
+    font-size: var(--heading-small-size);
+    line-height: var(--heading-small-line);
+    font-weight: var(--font-weight-heading);
+    color: var(--color-primary);
+}
+
+p,
+.text-body {
+    font-family: var(--font-body);
+    font-size: var(--body-size);
+    line-height: var(--body-line);
+    font-weight: var(--font-weight-body);
+    color: var(--color-text);
+}

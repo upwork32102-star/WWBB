@@ -1,0 +1,8 @@
+@"
+.DS_Store
+Thumbs.db
+*.zip
+.env
+node_modules/
+vendor/
+"@ | Out-File -Encoding utf8 .gitignore
