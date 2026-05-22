@@ -73,7 +73,7 @@
                             <li>Terrace and events area</li>
                         </ul>
 
-                        <a href="#" class="venue-btn">View Venue</a>
+                        <a href="https://studio48london.co.uk/" class="venue-btn">View Venue</a>
                     </div>
                 </article>
 
@@ -99,23 +99,21 @@
                             <li>Built for repeat customer engagement</li>
                         </ul>
 
-                        <a href="#" class="venue-btn">View Venue</a>
+                        <a href="https://rebellelive.com/" class="venue-btn">View Venue</a>
                     </div>
                 </article>
 
                 <!-- VENUE 03 -->
                 <article class="venue-card reveal">
                     <div class="venue-card-image">
-                        <img src="https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&w=1200&q=90" alt="Sway London venue">
-                        <span>03</span>
+<img src="https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&w=1200&q=90" alt="TBC London venue">                        <span>03</span>
                     </div>
 
                     <div class="venue-card-content">
                         <span class="venue-kicker">Multi-Experience Destination</span>
-                        <h3>Sway</h3>
+                        <h3>Sway (TBC)</h3>
                         <p>
-                            Sway is planned as a large-scale Central London destination combining sport,
-                            dining, nightlife, entertainment and premium VIP culture under one roof.
+                            This venue is to be confirmed and is planned as a large-scale Central London destination combining sport,
                         </p>
 
                         <ul>

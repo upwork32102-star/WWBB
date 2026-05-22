@@ -30,7 +30,7 @@
                 <h2>Book your next WWBB experience.</h2>
                 <p>
                     Select your preferred venue below. Studio 48 and Rebelle bookings can be completed directly on this page.
-                    For Sway, please continue to the official venue website.
+                    The third venue is currently TBC (to be confirmed).
                 </p>
             </div>
 
@@ -77,18 +77,17 @@
                 <!-- SWAY -->
                 <article class="reservation-card reservation-card-featured">
                     <div class="reservation-card-image">
-                        <img src="https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&w=1000&q=90" alt="Sway reservation">
-                    </div>
+<img src="https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&w=1000&q=90" alt="TBC venue reservation">                    </div>
 
                     <div class="reservation-card-content">
                         <span class="reservation-tag">Central London · Destination Venue</span>
-                        <h3>Sway</h3>
+                        <h3>Sway (TBC)</h3>
                         <p>
                             A large-scale destination venue combining sport, dining, nightlife, entertainment and premium VIP culture.
                         </p>
 
                         <a href="#" target="_blank" rel="noopener" class="reservation-link-btn">
-                            Visit Sway Website
+                            TBC
                         </a>
                     </div>
                 </article>

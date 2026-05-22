@@ -100,14 +100,14 @@
                 </article>
 
                 <article class="project-box reveal">
-                    <a href="/venues.php">
-                        <img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1000&q=90" alt="Sway">
+                    <a href="/venues.php"><img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1000&q=90" alt="TBC venue">
+                        
 
                         <div class="project-overlay"></div>
 
                         <div class="project-content">
                             <span>03</span>
-                            <h3>Sway</h3>
+                            <h3>Sway (TBC)</h3>
                             <p>A modern social space for drinks, music and late-night energy.</p>
                         </div>
                     </a>

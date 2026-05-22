@@ -46,13 +46,10 @@
 
                         <div class="contact-info-item">
                             <span>Email</span>
-                            <a href="mailto:info@wwbb.co.uk">info@wwbb.co.uk</a>
+                            <a href="mailto:Bookings@wallawallabingbing.com">Bookings@wallawallabingbing.com</a>
                         </div>
 
-                        <div class="contact-info-item">
-                            <span>Phone</span>
-                            <a href="tel:+440000000000">+44 0000 000000</a>
-                        </div>
+                       
 
                         <div class="contact-info-item">
                             <span>Location</span>

@@ -60,7 +60,7 @@
                     <ul>
                         <li><a href="#">Studio 48</a></li>
                         <li><a href="#">Rebelle</a></li>
-                        <li><a href="#">Sway</a></li>
+                        <li><a href="#">Sway (TBC)</a></li>
                         <li><a href="#">Private Hire</a></li>
                         <li><a href="#">Events</a></li>
                     </ul>
@@ -69,7 +69,7 @@
                 <div class="wwbb-footer-menu">
                     <h4>Contact</h4>
                     <ul>
-                        <li><a href="mailto:info@wwbbholdings.com">info@wwbbholdings.com</a></li>
+                        <li><a href="mailto:Bookings@wallawallabingbing.com">Bookings@wallawallabingbing.com</a></li>
                         <li><a href="#">London, United Kingdom</a></li>
                     </ul>
                 </div>
@@ -79,14 +79,9 @@
         </div>
 
         <div class="wwbb-footer-bottom">
-            <p>© <?php echo date('Y'); ?> WWBB Holdings. All rights reserved.</p>
+            <p>© 2025 WWBB Holdings. All rights reserved.</p>
 
-            <p class="wwbb-designed-by">
-                Designed by
-                <a href="https://sitenovasolutions.com/" target="_blank" rel="noopener">
-                    Site Nova Solutions
-                </a>
-            </p>
+            
         </div>
 
     </div>

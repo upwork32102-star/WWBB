@@ -194,8 +194,7 @@
 
                 <div class="press-contact-actions">
                     <a href="/contact.php" class="press-main-btn">Contact Us</a>
-                    <a href="mailto:info@wwbb.co.uk" class="press-outline-btn">Email Press Team</a>
-                </div>
+<a href="mailto:Bookings@wallawallabingbing.com" class="press-outline-btn">Email Press Team</a>                </div>
 
             </div>
 
