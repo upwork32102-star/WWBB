@@ -1,0 +1,142 @@
+/* =====================================================
+   GLOBAL MOBILE RESPONSIVE FIXES
+   Fixes mobile header overflow and horizontal scroll
+===================================================== */
+
+html,
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+img,
+video,
+iframe {
+    max-width: 100%;
+}
+
+/* Header safe width */
+.site-header {
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+}
+
+/* Header container */
+.site-header .header-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+    box-sizing: border-box !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 12px !important;
+}
+
+.site-header .menu-toggle,
+.site-header .header-btn {
+    flex-shrink: 0 !important;
+}
+
+/* Mobile header fix */
+@media (max-width: 575px) {
+    html,
+    body {
+        overflow-x: hidden !important;
+        max-width: 100vw !important;
+    }
+
+    .site-header {
+        padding: 18px 0 !important;
+        transform: none !important;
+        animation: none !important;
+        opacity: 1 !important;
+    }
+
+    .site-header.scrolled {
+        padding: 10px 0 !important;
+    }
+
+    .site-header .header-container {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+    }
+
+    .site-header .menu-toggle {
+        width: 42px !important;
+        height: 30px !important;
+        gap: 7px !important;
+        transform: none !important;
+        animation: none !important;
+        opacity: 1 !important;
+    }
+
+    .site-header .menu-toggle span {
+        animation: none !important;
+        opacity: 1 !important;
+    }
+
+    .site-header .menu-toggle span:nth-child(1) {
+        width: 34px !important;
+    }
+
+    .site-header .menu-toggle span:nth-child(2) {
+        width: 25px !important;
+    }
+
+    .site-header .menu-toggle span:nth-child(3) {
+        width: 18px !important;
+    }
+
+    .site-header .header-btn,
+    .site-header a.header-btn {
+        width: auto !important;
+        min-width: 0 !important;
+        max-width: calc(100vw - 90px) !important;
+        min-height: 44px !important;
+        height: 44px !important;
+        padding: 0 16px !important;
+        font-size: 10.5px !important;
+        line-height: 1 !important;
+        letter-spacing: 1.4px !important;
+        white-space: nowrap !important;
+
+        transform: none !important;
+        animation: none !important;
+        opacity: 1 !important;
+    }
+
+    .site-header .header-btn::after {
+        display: none !important;
+        content: none !important;
+    }
+
+    .offcanvas-menu {
+        width: 100vw !important;
+        max-width: 100vw !important;
+        overflow-x: hidden !important;
+    }
+}
+
+/* Extra small phones */
+@media (max-width: 360px) {
+    .site-header .header-container {
+        padding-left: 14px !important;
+        padding-right: 14px !important;
+    }
+
+    .site-header .header-btn,
+    .site-header a.header-btn {
+        min-height: 42px !important;
+        height: 42px !important;
+        padding: 0 13px !important;
+        font-size: 10px !important;
+        letter-spacing: 1px !important;
+    }
+}

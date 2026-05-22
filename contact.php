@@ -104,6 +104,7 @@
                             <textarea name="message" id="contactMessage" placeholder=" " required></textarea>
                             <label for="contactMessage">Your Message</label>
                         </div>
+<div class="form-status-message" id="contactFormMessage"></div>
 
                         <button type="submit" class="contact-submit-btn">
                             Send Message
